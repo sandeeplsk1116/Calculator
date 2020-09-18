@@ -1,5 +1,5 @@
 ## initializing the numbers
-a, b = 15, 2
+
 ## displaying catalog for the user choice
 print("1 - Addition\n2 - Substraction\n3 - Multiplication\n4 - Division\n5 - Floor Division\n6 - Modulo")
 ## getting option from the user
