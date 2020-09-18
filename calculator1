@@ -1,10 +1,10 @@
-## initializing the numbers
+public class AddTwoNumbers {
 
+   public static void main(String[] args) {
+        
+      int num1 = 5, num2 = 15, sum;
+      sum = num1 + num2;
 
-   print(f"Multiplication: {a * b}")
-elif option == 4:
-   print(f"Division: {a / b}")
-elif option == 5:
-   print(f"Floor Division: {a // b}")
-elif option == 6:
-   print(f"Modulo: {a % b}")
+      System.out.println("Sum of these numbers: "+sum);
+   }
+}
