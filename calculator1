@@ -1,15 +1,6 @@
 ## initializing the numbers
 
-## displaying catalog for the user choice
-print("1 - Addition\n2 - Substraction\n3 - Multiplication\n4 - Division\n5 - Floor Division\n6 - Modulo")
-## getting option from the user
-option = int(input("Enter one option from the above list:- "))
-## writing condition to perform respective operation
-if option == 1:
-   print(f"Addition: {a + b}")
-elif option == 2:
-   print(f"Substraction: {a - b}")
-elif option == 3:
+
    print(f"Multiplication: {a * b}")
 elif option == 4:
    print(f"Division: {a / b}")
