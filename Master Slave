@@ -9,6 +9,7 @@ cd .ssh
 cat id_rsa.pub > authorized_keys
 chmod 700 authorized_keys
 Copy the slave node's public more id_rsa (to find key
+Using only public key
 
 Root directory (/home//home/jenkins-slave-01)
 
